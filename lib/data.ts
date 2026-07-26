@@ -127,6 +127,7 @@ export const skillGroups: { label: string; items: SkillItem[] }[] = [
       { name: "Spring Boot", percent: 72 },
       { name: "Hibernate", percent: 68 },
       { name: "JavaFX", percent: 62 },
+      { name: "Kotlin", percent: 74 },
       { name: "GraphQL", percent: 66 },
       { name: "Maven", percent: 70 },
     ],
