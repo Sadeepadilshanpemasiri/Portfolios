@@ -135,6 +135,7 @@ export const skillGroups: { label: string; items: SkillItem[] }[] = [
     label: "Languages",
     items: [
       { name: "Java", percent: 88 },
+      { name: "C#", percent: 70 },
       { name: "Python", percent: 82 },
       { name: "JavaScript", percent: 84 },
       { name: "TypeScript", percent: 76 },
